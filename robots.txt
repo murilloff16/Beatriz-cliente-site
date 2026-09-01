@@ -1,0 +1,9 @@
+# robots.txt — Beatriz Camillo – Avaliação de Imóveis
+# Colocar na RAIZ do domínio ao publicar (ex.: https://www.beatrizcamillo.com.br/robots.txt)
+# Ao publicar: cadastrar o site no Google Search Console e vincular a propriedade ao GA4.
+
+User-agent: *
+Allow: /
+Disallow: /assets/checklist-documentos-avaliacao.html
+
+Sitemap: https://www.beatrizcamillo.com.br/sitemap.xml
